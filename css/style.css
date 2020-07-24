@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container-fluid{
+	background-color: #343a40;
+	padding-top: 5px;
+}
+i{
+	width: 16px;
+	text-align: center;
+}
+img{
+	width: 400px;
+}
+.box{
+	width: 100%;
+	min-height: 120px;
+	font-size: 18px;
+	color: tomato;
+	background-color: #eee;
+	margin-bottom: 5px;
+}
